@@ -1,0 +1,6 @@
+#ifndef HYDROGEN_CONSTANTS_H
+#define HYDROGEN_CONSTANTS_H
+
+// TODO: Put stuff here lol
+
+#endif//HYDROGEN_CONSTANTS_H
