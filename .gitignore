@@ -1,2 +1,7 @@
 # Ignore CMake build dir
 build/
+
+# Ignore CLion and its build dirs
+.idea/
+cmake-build-debug
+cmake-build-release
