@@ -24,6 +24,9 @@ typedef size_t usize;
 typedef float f32;
 typedef double f64;
 
+unsigned int true = 1;
+unsigned int false = 0;
+
 #ifdef HYDROGEN_REAL_FLOAT
     typedef f32 real;
 #else
